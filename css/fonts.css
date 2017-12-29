@@ -1,0 +1,92 @@
+@font-face {
+	font-family: 'CaviarDreams';
+	font-weight: normal;
+	font-style: normal;
+	src: url('../fonts/CaviarDreams.eot');
+	src: url('../fonts/CaviarDreams.eot?#iefix') format('embedded-opentype'),
+		 url('../fonts/CaviarDreams.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'CaviarDreams_Bold';
+	font-weight: bold;
+	font-style: oblique;
+	src: url('../fonts/CaviarDreams_Bold.eot');
+	src: url('../fonts/CaviarDreams_Bold.eot?#iefix') format('embedded-opentype'),
+		 url('../fonts/CaviarDreams_Bold.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'CaviarDreams_BoldItalic';
+	/*font-weight:inherit;*/
+	font-style: italic;
+	src: url('../fonts/CaviarDreams_BoldItalic.eot');
+	src: url('../fonts/CaviarDreams_BoldItalic.eot?#iefix') format('embedded-opentype'),
+		 url('../fonts/CaviarDreams_BoldItalic.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'CaviarDreams_Italic';
+	/*font-weight:inherit;*/
+	font-style: italic;
+	src: url('../fonts/CaviarDreams_Italic.eot');
+	src: url('../fonts/CaviarDreams_Italic.eot?#iefix') format('embedded-opentype'),
+		 url('../fonts/CaviarDreams_Italic.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'AG_Light';
+	font-weight: normal;
+	font-style: normal;
+	src: url('../fonts/AkzidenzGrotesk-Light.otf');
+}
+
+@font-face {
+	font-family: 'AG_BoldCond';
+	font-weight: bold;
+	font-style: normal;
+	src: url('../fonts/AkzidenzGrotesk-BoldCond.otf');
+}
+
+@font-face {
+	font-family: 'AG_Bold';
+	font-weight: bold;
+	font-style: normal;
+	src: url('../fonts/AkzidenzGrotesk-Bold.otf');
+}
+
+@font-face {
+	font-family: 'AG_LightSC';
+	font-weight: normal;
+	font-style: normal;
+	src: url('../fonts/AkzidenzGrotesk-LightSC.otf');
+}
+
+@font-face {
+	font-family: 'Europa_Bold';
+	font-weight: normal;
+	font-style: normal;
+	src: url('../fonts/Europa Bold.otf');
+}
+
+@font-face {
+	font-family: 'Europa_Regular';
+	font-weight: normal;
+	font-style: normal;
+	src: url('../fonts/Europa Regular.otf');
+}
+
+@font-face {
+	font-family: 'Europa_Light';
+	font-weight: normal;
+	font-style: normal;
+	src: url('../fonts/Europa Light.otf');
+}
+
+
+@font-face {
+	font-family: 'awesome';
+	font-weight: normal;
+	font-style: normal;
+	src: url('../fonts/fontawesome-webfont.ttf');
+}
