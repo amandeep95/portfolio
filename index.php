@@ -14,6 +14,7 @@
 
     <link rel="icon" href="img/logo.ico">
 
+    <script src='https://www.google.com/recaptcha/api.js'></script>
 
   </head>
 
@@ -170,7 +171,7 @@
 
       <div id="contactMe">
         <div class="noFlex">
-          <h3 class="contact_title">CONTACT ME</h3>
+          <h3 class="contact_title">THANKS! I'LL BE IN TOUCH</h3>
         </div>
 
         <div class="split">
@@ -214,9 +215,15 @@
 
   										<input type="reset" value="CLEAR" class="Button_Clear"/>
 
+
+
   										<!-- <li><div class="g-recaptcha" data-sitekey="6LeaEh8UAAAAAMRP4i7MhzKg9NpeL6VygczdtV7x"></div></li> -->
 
   									</div>
+
+                    <div class="recaptcha_center">
+                      <div class="g-recaptcha" data-sitekey="6LeaEh8UAAAAAMRP4i7MhzKg9NpeL6VygczdtV7x"></div>
+                    </div>
 
   								</form>
 
@@ -233,9 +240,9 @@
               <a href="https://ca.linkedin.com/in/amandeep-malhi-ab0814128" class="white_contact" target="_blank"><h3 class="white">FIND ME ON LINKEDIN</h3></a>
             </div>
 
-            <div class="contact_section">
+            <!-- <div class="contact_section">
               <a href="https://www.instagram.com/amandeepdesigns/?hl=en" class="white_contact" target="_blank"><h3 class="white">STALK ME ON INSTAGRAM</h3></a>
-            </div>
+            </div> -->
 
           </div>
 
