@@ -295,6 +295,11 @@ img.Profile_Pic{
   margin-bottom: 10em;*/
 }
 
+.Archive{
+  background-color: white;
+  /* width: 100%; */
+}
+
 .Project_Normal{
     display: flex;
     flex-wrap: wrap;
@@ -327,6 +332,12 @@ img.Profile_Pic{
   /*justify-content: center;*/
   margin-bottom: 3em;
   padding-top: 3em;
+}
+
+.Proj_description_Archive{
+  display: flex;
+  flex-wrap: nowrap;
+
 }
 
 
@@ -438,7 +449,7 @@ a.noLine{
 
 
 
-.proj_arrow_link{
+.proj_arrow_link , .proj_arrow_link_archive{
   font-family: Europa_Regular;
 
   font-size: 1.3em;
@@ -452,7 +463,7 @@ a.noLine{
   transition: color 0.5s , border 0.5s , background-color 0.5s;
 }
 
-.proj_arrow_link:focus , .proj_arrow_link:hover , .proj_arrow_link:active{
+.proj_arrow_link:focus , .proj_arrow_link:hover , .proj_arrow_link:active , .proj_arrow_link_archive:focus, .proj_arrow_link_archive:hover , .proj_arrow_link_archive:active{
   color: white;
   background-color: rgb(60, 71, 197)
 }
@@ -865,7 +876,26 @@ h3.contact_title{ /*DONT TOUCH*/
   width: 100%;*/
 }
 
+.trailer{
+  position: relative;
+   width: 100%;
+   height: 0;
+   padding-bottom: 56.25%;
+   margin-bottom: 3em;
+  /*display: flex;
+  justify-content: center;
+  width: 100%;*/
+}
+
 .model{
+  position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+.trailer_clip{
   position: absolute;
     top: 0;
     left: 0;
@@ -1089,6 +1119,12 @@ h4.model_title{
     /*padding-top: 5em;*/
     /*margin-top: 6em;
     margin-bottom: 10em;*/
+  }
+
+  .Archive{
+    background-color: white;
+    /* width: 100%; */
+    padding-bottom: 5em;
   }
 
   .Project_Normal{
@@ -1571,6 +1607,11 @@ h4.model_title{
     justify-content: center;
 }
 
+.trailer_center{
+  display: flex;
+  justify-content: center;
+}
+
   .Live_Model{
     /*position: relative;*/
      width: 75%;
@@ -1582,7 +1623,26 @@ h4.model_title{
     width: 100%;*/
   }
 
+  .trailer{
+    /*position: relative;*/
+     width: 60%; /* width of trialer in full screen mode on monitor */
+     height: 0;
+     padding-bottom: 36%;
+     margin-bottom: 3em;
+    /*display: flex;
+    justify-content: center;
+    width: 100%;*/
+  }
+
   .model{
+    position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+  }
+
+  .trailer_clip{
     position: absolute;
       top: 0;
       left: 0;
