@@ -393,6 +393,11 @@ h2.Project_title{
   /*width:100%;*/
 }
 
+.Proj_img2{
+  display: flex;
+  flex-direction: column;
+}
+
 .Project_img2{
   width: 100%;
   /*margin: 1em 3em 1em 1em;*/
@@ -899,7 +904,7 @@ h3.contact_title{ /*DONT TOUCH*/
   position: absolute;
     top: 0;
     left: 0;
-    width: 100%;
+    width: 99%;
     height: 100%;
 }
 
@@ -1646,7 +1651,7 @@ h4.model_title{
     position: absolute;
       top: 0;
       left: 0;
-      width: 100%;
+      width: 99%;
       height: 100%;
   }
 
