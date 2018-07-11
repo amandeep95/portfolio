@@ -87,6 +87,29 @@
           <div class="Project1" id="coder">
 
             <div class="Proj_img">
+              <a href="BroBoBots.html">
+                <img src="img/P5/P5_Intro.gif" alt="GIF of loading screen for BroBoBots showing Dink and MegaPixel " class="Project_img">
+              </a>
+            </div>
+
+            <div class="Proj_description">
+              <h4>Brobobots - <span class="number">2.5</span>D Game</h4>
+              <p class="Project_text"><strong>Role:</strong> Programmer</p>
+              <p class="Project_text">An interactive 2.5D co-op action adventure puzzle game built in Unity using C# script for an Advanced Game Design Course. With team members
+
+                <!-- <a href="">Kingsley Ip</a>, <a href="">Danica Valdes</a>, <a href="">Nicholas Ramsay</a>. -->
+
+                Kingsley Ip, Danica Valdes, Nicholas Ramsay.
+
+              </p>
+              <span class="float_center"><a href="BroBoBots.html" class="proj_arrow_link">VIEW GAME &rarr;</a></span>
+            </div>
+
+          </div>
+
+          <div class="Project2">
+
+            <div class="Proj_img">
               <a href="murpheyFrame.html">
                 <img src="img/Proj1_Index.jpg" alt="Screenshot of Unity Software showing The Murphey Frame being made." class="Project_img">
               </a>
@@ -94,6 +117,7 @@
 
             <div class="Proj_description">
               <h4>The Murphey Frame - <span class="number">2</span>D Game</h4>
+              <p class="Project_text"><strong>Role:</strong> Programmer</p>
               <p class="Project_text">An interactive 2D narrative game build in Unity using C# script for a Foundations of Game Design Course. With team members Irene Lo and Willy Manuel.</p>
               <span class="float_center"><a href="murpheyFrame.html" class="proj_arrow_link">VIEW GAME &rarr;</a></span>
             </div>
@@ -101,7 +125,7 @@
           </div>
 
 
-          <div class="Project2" id="threeD">
+          <div class="Project3" id="threeD">
 
             <div class="Proj_img">
               <a href="VRHeadset.html"><img src="img/Proj2_Index.jpg" alt="A 3D rendering of a black virtual reality headset with maroon accents." class="Project_img"></a>
@@ -109,6 +133,7 @@
 
             <div class="Proj_description">
               <h4>VR Headset - <span class="number">3</span>D Render</h4>
+              <p class="Project_text"><strong>Role:</strong><span class="number"> 3</span>D Renderer</p>
               <p class="Project_text">A 3D model created in Maya of a Virtal Reality Headset for a Materials in Design Course. With team members Willy Manuel, Lizzie Lo and Rajvir Chana.</p>
               <span class="float_center"><a href="VRHeadset.html" class="proj_arrow_link">VIEW HEADSET &rarr;</a></span>
             </div>
@@ -119,29 +144,45 @@
 
         <div class="Row2">
 
-          <div class="Project3">
+          <div class="Project4">
             <div class="Proj_img">
               <a href="andex.html"><img src="img/Proj3_Index.jpg" alt="Zoomed in screenshots of Andex Mobile App login and welcome screens." class="Project_img"></a>
             </div>
 
             <div class="Proj_description">
               <h4>Andex - Mobile App</h4>
+              <p class="Project_text"><strong>Role: </strong> Designer/Programmer</p>
               <p class="Project_text">An Android application which allows Users to index creatures they see in the wild. Created for a Mobile Computing Course.</p>
               <span class="float_center"><a href="andex.html" class="proj_arrow_link">VIEW APP &rarr;</a></span>
             </div>
           </div>
 
-          <div class="Project4" id="GD">
+          <!-- <div class="Project4" id="GD">
             <div class="Proj_img">
               <a href="amaris.html" ><img src="img/Proj4_Index.jpg" alt="Final Logo of the Amaris Foundation, a colourful 'A' with the word 'Amaris' on its right." class="Project_img2"></a>
             </div>
 
             <div class="Proj_description">
               <h4>Amaris Organization - Logo</h4>
+              <p class="Project_text"><strong>Role:</strong> Graphic Designer</p>
               <p class="Project_text">New logo for the Amaris Foundation, for their rebranding phase, which was used on thier social media platforms and their public advertisments.</p>
               <span class="float_center"><a href="amaris.html" class="proj_arrow_link">VIEW LOGO &rarr;</a></span>
             </div>
-          </div>
+          </div> -->
+
+
+          <!-- <div class="Archive">
+            <div class="Proj_img">
+              <a href="amaris.html" ><img src="img/Proj4_Index.jpg" alt="Final Logo of the Amaris Foundation, a colourful 'A' with the word 'Amaris' on its right." class="Project_img2"></a>
+            </div>
+
+            <div class="Proj_description_Archive">
+              <h4>Amaris Organization - Logo</h4>
+              <p class="Project_text"><strong>Role:</strong> Graphic Designer</p>
+              <p class="Project_text">New logo for the Amaris Foundation, for their rebranding phase, which was used on thier social media platforms and their public advertisments.</p>
+              <span class="float_center"><a href="archives.html" class="proj_arrow_link_archive">VIEW ARCHIVED PROJECTS &rarr;</a></span>
+            </div>
+          </div> -->
 
         </div>
       </div>

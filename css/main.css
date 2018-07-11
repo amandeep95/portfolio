@@ -20,6 +20,27 @@ h1{
   /*width: 100%;*/
 }
 
+h1.Banner_Name{
+  margin: 2em 0;
+  /* font-size:  2em; */
+}
+
+/*MEDIA QUERIES*/
+@media (max-width:36.88em) {
+  h1.Banner_Name{
+    display: none;
+    /* font-size:  2em; */
+  }
+
+  div.Banner_img{
+    height: 32em;
+  }
+
+  div.header{
+    height: 32em;
+  }
+}
+
 h2{
   font-family: AG_Light;
   font-size: 1.3em;
@@ -104,60 +125,60 @@ div.Banner_img{
 }
 
 
-div.Banner_img_P1{
-  background-image: url("../img/bg1.jpg");
+/* div.Banner_img_P1{ */
+  /* background-image: url("../img/bg1.jpg"); */
   /*background-size: 10em;*/
-  background-position: center -200px;
+  /* background-position: center -200px;
   background-attachment: fixed;
-  overflow: hidden;
+  overflow: hidden; */
   /*z-index: 0;
   height: 100%;
   width: 100%;
   position: relative;
   overflow: auto;*/
-}
+/* } */
 
-div.Banner_img_P2{
-  background-image: url("../img/bg2.jpg");
+/* div.Banner_img_P2{ */
+  /* background-image: url("../img/bg2.jpg"); */
   /*background-size: 10em;*/
-  background-position: center -200px;
-  background-attachment: fixed;
-  overflow: hidden;
+  /* background-position: center -200px; */
+  /* background-attachment: fixed; */
+  /* overflow: hidden; */
   /*z-index: 0;
   height: 100%;
   width: 100%;
   position: relative;
   overflow: auto;*/
-}
+/* } */
 
-div.Banner_img_P3{
-  background-image: url("../img/bg3.jpg");
+/* div.Banner_img_P3{ */
+  /* background-image: url("../img/bg3.jpg"); */
   /*background-size: 10em;*/
-  background-position: center -200px;
-  background-attachment: fixed;
-  overflow: hidden;
+  /* background-position: center -200px; */
+  /* background-attachment: fixed; */
+  /* overflow: hidden; */
   /*z-index: 0;
   height: 100%;
   width: 100%;
   position: relative;
   overflow: auto;*/
-}
+/* } */
 
-div.Banner_img_P4{
-  background-image: url("../img/bg4.jpg");
+/* div.Banner_img_P4{ */
+  /* background-image: url("../img/bg4.jpg"); */
   /*background-size: 10em;*/
-  background-position: center -200px;
-  background-attachment: fixed;
-  overflow: hidden;
+  /* background-position: center -200px; */
+  /* background-attachment: fixed; */
+  /* overflow: hidden; */
   /*z-index: 0;
   height: 100%;
   width: 100%;
   position: relative;
   overflow: auto;*/
-}
+/* } */
 
 div.header{
-  background-color: rgba(36, 41, 67, 0.9);
+  background-color: rgba(36, 41, 67, 0.7);
   /*background-color: linear-gradient(rgba(36, 41, 67, 0.8));*/
   /*background-image: url("../img/bg.jpg");*/
   /*background: linear-gradient(rgba(36, 41, 67, 0.8),rgba(36, 41, 67, 0.8),url("../img/bg.jpg"));*/
@@ -957,6 +978,10 @@ h4.model_title{
     font-size: 4em;
     text-align: center;
     color: #fff;
+  }
+
+  h1.Banner_Name{
+    margin: 3.4em 0;
   }
 
   h2{
