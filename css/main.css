@@ -22,7 +22,15 @@ h1{
 
 h1.Banner_Name{
   margin: 2em 0;
-  /* font-size:  2em; */
+  font-size:  3.4em;
+}
+
+h1.corner_name{
+  display: none;
+  font-size: 1em;
+  text-align: left;
+  padding-left: 1em;
+  /* margin-top: 0em; */
 }
 
 /*MEDIA QUERIES*/
@@ -30,6 +38,15 @@ h1.Banner_Name{
   h1.Banner_Name{
     display: none;
     /* font-size:  2em; */
+  }
+
+  h1.corner_name{
+    /* display: none; */
+    display: block;
+    font-size: 1em;
+    text-align: left;
+    padding-left: 1em;
+    /* margin-top: 0em; */
   }
 
   div.Banner_img{
@@ -982,6 +999,16 @@ h4.model_title{
 
   h1.Banner_Name{
     margin: 3.4em 0;
+    /* defualt font size is 4em from the H1 tag */
+    font-size: 4em;
+  }
+
+  h1.corner_name{
+    display: none;
+    font-size: 1.5em;
+    text-align: left;
+    padding-left: 1em;
+    /* margin-top: 0em; */
   }
 
   h2{
