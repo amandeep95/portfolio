@@ -25,6 +25,11 @@ h1.Banner_Name{
   font-size:  3.4em;
 }
 
+h1.Banner_Name_Stay{
+  margin: 4em 0;
+  font-size:  2.4em;
+}
+
 h1.corner_name{
   display: none;
   font-size: 1em;
@@ -50,11 +55,11 @@ h1.corner_name{
   }
 
   div.Banner_img{
-    height: 32em;
+    height: 25em;
   }
 
   div.header{
-    height: 32em;
+    height: 25em;
   }
 }
 
@@ -258,6 +263,16 @@ a.navItems{
   margin: 3em 0;
   /*flex-grow: 1;*/
   /*border: red 1px solid;*/
+}
+
+.not_games{
+  /* margin: 3em 0; */
+  margin-top: 4em;
+  margin-bottom: 2em;
+}
+
+h2.notGames{
+  font-size: 1.3em;
 }
 
 div.About_Me{
@@ -1003,6 +1018,12 @@ h4.model_title{
     font-size: 4em;
   }
 
+  h1.Banner_Name_Stay{
+    margin: 3.4em 0;
+    /* defualt font size is 4em from the H1 tag */
+    font-size: 4em;
+  }
+
   h1.corner_name{
     display: none;
     font-size: 1.5em;
@@ -1114,6 +1135,16 @@ h4.model_title{
     margin: 3em 0;
     /*flex-grow: 1;*/
     /*border: red 1px solid;*/
+  }
+
+  .not_games{
+    /* margin: 3em 0; */
+    margin-top: 4em;
+    margin-bottom: 2em;
+  }
+
+  h2.notGames{
+    font-size: 1.3em;
   }
 
   div.About_Me{
