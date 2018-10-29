@@ -25,11 +25,12 @@
 
           <a href="index.html" class="noLine">
             <div class="Name">
-              <h1>Amandeep Malhi</h1>
+              <h1 class="corner_name">Amandeep Malhi</h1>
+              <h1 class="Banner_Name">Amandeep Malhi</h1>
             </div>
           </a>
 
-          <div class="Icon_Banner">
+          <!-- <div class="Icon_Banner">
 
             <a href="#coder" class="noLine">
               <div class="Icon">
@@ -58,7 +59,7 @@
               </div>
             </a>
 
-          </div>
+          </div> -->
 
         </div>
       </div>
