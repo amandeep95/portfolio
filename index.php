@@ -78,7 +78,7 @@
       </div>
 
       <div class="Welcome"  id="back_to_home">
-        <h2>Welcome to my Portfolio. Below are a few projects that I have worked on.</h2>
+        <h2>Welcome to my Portfolio. Below are a few projects that I have worked on.</h2> <!-- Welcome to my Portfolio. Below are a few projects that I have worked on. -->
       </div>
 
       <div id="projects" class="Project_Section">
@@ -96,11 +96,18 @@
             <div class="Proj_description">
               <h4>Brobobots - <span class="number">2.5</span>D Game</h4>
               <p class="Project_text"><strong>Role:</strong> Programmer</p>
-              <p class="Project_text">An interactive 2.5D co-op action adventure puzzle game built in Unity using C# script for an Advanced Game Design Course. With team members
+              <p class="Project_text">An interactive 2.5D co-op action adventure puzzle game built in Unity using C# script for an Advanced Game Design Course over a duration of 13 weeks.
+
+
+                <!-- An interactive 2.5D co-op action adventure puzzle game built in Unity using C# script for an Advanced Game Design Course. -->
+
+                <!-- With team members
+                Kingsley Ip, Danica Valdes, Nicholas Ramsay. -->
+
 
                 <!-- <a href="">Kingsley Ip</a>, <a href="">Danica Valdes</a>, <a href="">Nicholas Ramsay</a>. -->
 
-                Kingsley Ip, Danica Valdes, Nicholas Ramsay.
+
 
               </p>
               <span class="float_center"><a href="BroBoBots.html" class="proj_arrow_link">VIEW GAME &rarr;</a></span>
@@ -119,12 +126,34 @@
             <div class="Proj_description">
               <h4>The Murphey Frame - <span class="number">2</span>D Game</h4>
               <p class="Project_text"><strong>Role:</strong> Programmer</p>
-              <p class="Project_text">An interactive 2D narrative game build in Unity using C# script for a Foundations of Game Design Course. With team members Irene Lo and Willy Manuel.</p>
+              <p class="Project_text">A prototype of an interactive 2D narrative game build in Unity using C# script for a Foundations of Game Design Course over a duration of 4 weeks.
+
+
+
+
+                 <!-- With team members Irene Lo and Willy Manuel. -->
+
+
+
+
+              </p>
+
+
+
+
               <span class="float_center"><a href="murpheyFrame.html" class="proj_arrow_link">VIEW GAME &rarr;</a></span>
             </div>
 
           </div>
 
+        </div>
+
+
+        <div class="not_games"  id="back_to_home">
+          <h2 class="notGames">A few of my other projects that aren't games but still amazing</h2>
+        </div>
+
+        <div class="Row2">
 
           <div class="Project3" id="threeD">
 
@@ -135,15 +164,22 @@
             <div class="Proj_description">
               <h4>VR Headset - <span class="number">3</span>D Render</h4>
               <p class="Project_text"><strong>Role:</strong><span class="number"> 3</span>D Renderer</p>
-              <p class="Project_text">A 3D model created in Maya of a Virtal Reality Headset for a Materials in Design Course. With team members Willy Manuel, Lizzie Lo and Rajvir Chana.</p>
+              <p class="Project_text">A 3D model of a Virtal Reality Headset for a Materials in Design Course created in Maya over duration of 4 weeks.
+
+
+
+                <!-- A 3D model created in Maya of a Virtal Reality Headset for a Materials in Design Course. -->
+
+
+
+                <!-- With team members Willy Manuel, Lizzie Lo and Rajvir Chana. -->
+
+
+              </p>
               <span class="float_center"><a href="VRHeadset.html" class="proj_arrow_link">VIEW HEADSET &rarr;</a></span>
             </div>
 
           </div>
-
-        </div>
-
-        <div class="Row2">
 
           <div class="Project4">
             <div class="Proj_img">
@@ -153,7 +189,7 @@
             <div class="Proj_description">
               <h4>Andex - Mobile App</h4>
               <p class="Project_text"><strong>Role: </strong> Designer/Programmer</p>
-              <p class="Project_text">An Android application which allows Users to index creatures they see in the wild. Created for a Mobile Computing Course.</p>
+              <p class="Project_text">An Android application which allows Users to index creatures they see in the wild. Created for a Mobile Computing Course over duration of 5 weeks.</p>
               <span class="float_center"><a href="andex.html" class="proj_arrow_link">VIEW APP &rarr;</a></span>
             </div>
           </div>
@@ -196,13 +232,22 @@
           <div class="About_Me_Text">
             <h3>A BIT ABOUT ME</h3> <!-- About Me , It's-a me, Amandeep -->
               <!-- <p class="About_Me_Text">I’m a fourth-year student in the <strong>School of Interactive Arts and Technology (SIAT)</strong> program at Simon Fraser University.</p> -->
-              <p class="About_Me_Text">I like to code; Java projects, websites and especially games. I’m familiar with <strong>Java</strong>, <strong>C</strong>, <strong>C#</strong>, <strong>Arduino</strong>, <strong>Processing</strong> and <strong>HTML5/CSS</strong> with <strong>JavaScript</strong> and <strong>Unity</strong>.</p>
-              <p class="About_Me_Text">When I’m not playing/making games, I’m working on my 3D modelling and rendering skills in <strong>Maya</strong>, for Visual Designs and Animations and my graphic design skills with <strong>Adobe Photoshop, Illustrator and InDesign</strong>.</p>
-              <p class="About_Me_Text">I hope that these skills will enable me to better communicate my designs and make them interactive and engaging for clients and collaborators.</p>
+              <p class="About_Me_Text">I’m a gameplay programmer with a passion for creating games when not playing them. I’m familiar with <strong>Unity 2D & 3D</strong>, <strong>C#</strong>, <strong>Java</strong>, <strong>Processing</strong>, <strong>C</strong> and <strong>HTML5/CSS</strong> with <strong>JavaScript</strong> for creating responsive webpages.</p>
+
+
+              <p class="About_Me_Text">I am also skilled in design software such as <strong>Adobe Photoshop, Illustrator and InDesign</strong>, as well as <strong>Maya</strong> for 3D renders and models for creating prototypes and assets for games.</p>
+
+
+              <p class="About_Me_Text">When I’m not working on a project, I continue to enhance my programming and scripting skills and teach myself other game engines that I could use in the future. I also try and brainstorm new ideas for future projects and games that I can share.</p>
+
+
+
+
+              <!-- <p class="About_Me_Text">I hope that these skills will enable me to better communicate my designs and make them interactive and engaging for clients and collaborators.</p> -->
           </div>
 
           <div class="About_Me_Image">
-            <img src="img/me.png" alt="A photo of Amandeep Malhi. He is wearing glasses and a suit and tie." class="Profile_Pic">
+            <img src="img/me.png" alt="A photo of Amandeep Malhi wearing a suit and tie." class="Profile_Pic">
           </div>
         </div>
       </div>
@@ -272,6 +317,17 @@
   				</div>
 
 
+          <div class="side_contact_container">
+
+            <!-- <div class="side_contact">
+              <div class="contact_section1">
+                <p class="contact_text">Feel free to contact me with any questions or opportunities you may have. I am a team player and welcome challenges.</p>
+
+              </div>
+            </div> -->
+
+
+
           <div class="side_contact">
 
             <div class="contact_section">
@@ -288,6 +344,8 @@
 
           </div>
 
+        </div>
+
 
 
         </div>
@@ -299,7 +357,7 @@
           <!-- <a href="index.html" class="navItems">BACK TO TOP</a> -->
           <a href="styleGuide.html" class="navItems">STYLEGUIDE</a>
           <a href="citations.html" class="navItems">CITATIONS</a>
-          <a href="https://github.com/amandeep95/portfolio" class="navItems" target="_blank">GITHUB</a>
+          <!-- <a href="https://github.com/amandeep95/portfolio" class="navItems" target="_blank">GITHUB</a> -->
         </nav>
       </footer>
 
